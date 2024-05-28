@@ -1,3 +1,3 @@
 # Amit-Demo
-My first Git repository./n
+My first Git repository.<br>
 Author-Amit kumar Sahoo
